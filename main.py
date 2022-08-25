@@ -1,4 +1,4 @@
-from busquedaAnchura import PuzzleBoard
+from puzzle_board import PuzzleBoard
 
 
 if __name__ == '__main__':
